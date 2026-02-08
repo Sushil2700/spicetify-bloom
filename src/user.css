@@ -1814,8 +1814,8 @@ input:checked~.x-toggle-indicatorWrapper .x-toggle-indicator {
 }
 
 .main-playButton-PlayButton>button {
-  width: 40px;
-  height: 40px;
+  width: 28px;
+  height: 28px;
 }
 
 .main-playButton-PlayButton>button>span {
